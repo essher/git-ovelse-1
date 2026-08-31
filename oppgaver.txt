@@ -1,0 +1,3 @@
+Jeg vil lære mer om GitHub.
+Jeg vil lære mer om branches.
+Jeg vil lære mer om merge.
