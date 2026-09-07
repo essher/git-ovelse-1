@@ -8,4 +8,4 @@ Jeg vil lære mer om pull.
 git checkout -b "navn"
 
 git branch
-lool
+lol
